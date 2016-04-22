@@ -1,5 +1,7 @@
 jQuery plugin creating customizable input radio buttons
 
+###DEMO: http://marioiliev.com/demos/radio-buttons/
+
 #	Initialize the plugin (two options):
 	1. Call the plugin on element containing radio buttons - $(selector).customRadio();
 	2. Add "data-radio-custom" tag on <div> containing radio buttons and the plugin will run with the default options
